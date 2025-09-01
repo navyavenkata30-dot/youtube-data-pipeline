@@ -43,4 +43,6 @@ A simple **ETL (Extract, Transform, Load) pipeline** project that fetches trendi
 4. Create a `config.py` file in the project root with the following content:
    ```python
    API_KEY = "YOUR_API_KEY"
+## screen shot
+![Terminal Screenshot](images/screen shot.png)
 
